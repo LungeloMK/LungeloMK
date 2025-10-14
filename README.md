@@ -98,7 +98,7 @@ I love solving complex problems and building secure, efficient systems. Currentl
 
 ## 📁 **Projects**
 
-- [Portfolio Website]([https://github.com/LungeloMK/portfolio](https://lungelomk.github.io/portfolio-website/))
+- [Portfolio Website](https://lungelomk.github.io/portfolio-website/))
 - [Java CRUD App](https://github.com/LungeloMK/java-crud-app)
 - [Cybersecurity Labs](https://github.com/LungeloMK/cyber-labs)
 
