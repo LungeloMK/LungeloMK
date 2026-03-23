@@ -87,22 +87,10 @@ I love solving complex problems and building secure, efficient systems. Currentl
 
 ---
 
-## 🏆 **Achievements**
-
-- **Cisco Certified Network Associate (CCNA)**
-- **Oracle Database SQL Certified**
-- **3rd Place in National Coding Competition 2023**
-- **Open Source Contributor** (50+ commits to various projects)
-
----
-
 ## 📁 **Projects**
 
 - [Portfolio Website](https://lungelomk.github.io/portfolio-website/))
-- [Java CRUD App](https://github.com/LungeloMK/java-crud-app)
-- [Cybersecurity Labs](https://github.com/LungeloMK/cyber-labs)
 
----
 
 ## 🎮 **Interactive Zone**
 
